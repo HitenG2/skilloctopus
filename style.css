@@ -6,7 +6,7 @@ body{
     font-size: 28pt;
     font-weight: bold;
 }
-.skill_octopus{
+.skilloctopus{
     width: 450px;
     height: 500px;
     position:absolute;
@@ -20,7 +20,7 @@ body{
     display: flex;
     flex-direction: column;
 }
-.skill_octopus h1{
+.skilloctopus h1{
     position: absolute;
     margin: -95px 10px;
     font-size: 15pt;
@@ -55,7 +55,7 @@ body{
     border-radius: 30px 240px / 240px;
     transform: rotate(-30deg);
 }
-.maxLegs_octopus{
+.maxLegs{
     width: 400px;
     line-height: 1px;
     position: absolute;
@@ -70,7 +70,7 @@ body{
     font-weight: bold;
     font-family: "Agency FB", serif;
 }
-.currLegs_octopus{
+.currLegs{
     width: 400px;
     line-height: 17px;
     position: absolute;
@@ -85,7 +85,7 @@ body{
     font-weight: bold;
     font-family: "Agency FB", serif;
 }
-.futLegs_octopus{
+.futLegs{
     width: 400px;
     line-height: 17px;
     position: absolute;
